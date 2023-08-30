@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wander-amaral-51762318a/)
 
-![Wander GitHub stats](https://github-readme-stats.vercel.app/api?username=WanderAmaral&show_icons=true&theme=transparent)
 
 <h2>Tecnologias que uso no meu dia <br>
 
