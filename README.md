@@ -14,6 +14,7 @@
  <img align="center" alt="node" src="https://img.shields.io/badge/Mysql-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img align="center" alt="node" src="https://img.shields.io/badge/TypeScript-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img align="center" alt="node" src="https://img.shields.io/badge/Next.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+ <img align="center" alt="node" src="https://img.shields.io/badge/Postgres-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  
  
 </div>
