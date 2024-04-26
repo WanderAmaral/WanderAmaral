@@ -5,6 +5,18 @@
 <a href='https://www.linkedin.com/in/wander-amaral-51762318a/'><img src='https://img.shields.io/badge/Wander%20Amaral%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white'/></a>
 </p>
 
+<h3>
+
+:computer: - Sou um desenvolvedor Front-end e estou bucando me tornar um desenvolvedor Full-Stack. Tenho experiência em JavaScript, TypeScript, Node.js, React e Next.js. Desde sempre, a tecnologia fez parte da minha vida, o que me levou a me aprofundar nesta área, na qual continuo aprendendo constantemente.
+
+:heart:  - Além dessa parte profissional, busco também impactar a vida das pessoas através da tecnologia, seja ajudando alguém a aprender ou auxiliando também na parte pessoal. Acredito que esses pequenos gestos nos ajudam a crescer como pessoa e como profissional. Além disso, gosto de participar da comunidade de desenvolvimento, pois é uma comunidade ampla, onde cada um ajuda o outro e compartilha suas ideias.
+
+:rocket: - Profissionalmente, busco experiência em empresas de tecnologia para me aperfeiçoar na área. Atualmente, tenho trabalhado como freelancer no desenvolvimento web, utilizando TypeScript, React, Next e Node, criando landing pages, micro-sistemas, entre outros.
+
+:soccer: - Além da tecnologia, tenho grande paixão pelo mundo do futebol, tanto assistindo aos jogos quanto praticando o esporte.
+
+</h3>
+
 <h2>
 
 :hammer_and_wrench: &nbsp;Tech Stack</h2>
