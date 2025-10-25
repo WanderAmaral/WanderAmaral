@@ -7,7 +7,7 @@
 
 <h3>
 
-:computer: - Sou um desenvolvedor Front-end e estou bucando me tornar um desenvolvedor Full-Stack. Tenho experiência em JavaScript, TypeScript, Node.js, React e Next.js. Desde sempre, a tecnologia fez parte da minha vida, o que me levou a me aprofundar nesta área, na qual continuo aprendendo constantemente.
+:computer: - Sou um desenvolvedor Full-Stack. Tenho experiência em PHP, JavaScript, TypeScript, Node.js, React e Next.js. Desde sempre, a tecnologia fez parte da minha vida, o que me levou a me aprofundar nesta área, na qual continuo aprendendo constantemente.
 
 :heart:  - Além dessa parte profissional, busco também impactar a vida das pessoas através da tecnologia, seja ajudando alguém a aprender ou auxiliando também na parte pessoal. Acredito que esses pequenos gestos nos ajudam a crescer como pessoa e como profissional. Além disso, gosto de participar da comunidade de desenvolvimento, pois é uma comunidade ampla, onde cada um ajuda o outro e compartilha suas ideias.
 
