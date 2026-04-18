@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/wander-amaral-51762318a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E53935" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-f8d19.web.app/pt-BR">
     <img src="https://img.shields.io/badge/Portfólio-E53935?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" />
