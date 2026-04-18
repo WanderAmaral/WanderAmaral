@@ -1,11 +1,16 @@
 <h1> 👋 Olá Eu sou o Wander  </h1>
 
-<p align='center'>
-<a href='mailto:wanderamaral013@gmail.com' ><img src='https://img.shields.io/badge/-wanderamaral013@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white' /></a>
-[<a href='https://www.linkedin.com/in/wander-amaral-51762318a/'><img src='https://img.shields.io/badge/Wander%20Amaral%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white'/></a>
-](https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white)
-[  <a href="https://portfolio-f8d19.web.app/pt-BR">Portfólio: https://portfolio-f8d19.web.app/pt-BR<img src='https://img.shields.io/badge/Wander%20Amaral%20-0077B5?style=flat-square&logo=Linkedin&logoColor=red'/></a>
-](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=E53935)</p>
+<p align="center">
+  <a href="mailto:wanderamaral013@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/wander-amaral-51762318a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E53935" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-f8d19.web.app/pt-BR">
+    <img src="https://img.shields.io/badge/Portfólio-E53935?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
 <h3>
 
